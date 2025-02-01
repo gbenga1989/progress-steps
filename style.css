@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #f6f7fb;
   font-family: "Roboto", sans-serif;
   display: flex;
   align-items: center;
@@ -15,6 +16,5 @@ body {
 }
 
 .container {
-  display: flex;
-  width: 90vw;
+  text-align: center;
 }
