@@ -50,7 +50,7 @@ if(idx < currentActive){
   } else if(currentActive === circles.length){
     next.disabled = true
   } else {
-    prev.disabled = false
+    // prev.disabled = false
     next.disabled = false
   }
 }
