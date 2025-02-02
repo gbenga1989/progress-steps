@@ -51,5 +51,6 @@ if(idx < currentActive){
     next.disabled = true
   } else {
     prev.disabled = false
+    next.disabled = false
   }
 }
