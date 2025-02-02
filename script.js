@@ -40,5 +40,6 @@ if(idx < currentActive){
 }
   })
 
+  const avtives = document.querySelectorAll('.active')
   
 }
