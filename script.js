@@ -40,6 +40,8 @@ if(idx < currentActive){
 }
   })
 
-  const avtives = document.querySelectorAll('.active')
+  const actives = document.querySelectorAll('.active')
+
+  progress.style.width = (actives.length / circles.length) * 100 + '%'
   
 }
